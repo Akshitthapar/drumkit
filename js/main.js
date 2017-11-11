@@ -8,6 +8,15 @@ var songs = [										 //variables song array hai of objects ka
 'image':'song1.jpg'
 },
 {
+'name': 'like wine',
+'artist': 'Jordan Marcotte',
+'album': 'singles',
+'duration': '3:34',
+'fileName': 'like wine.mp3',
+'image':'song5.jpg'
+},
+
+{
 	'name': 'Humma Song',
 	'artist': ' Shashaa Tirupati',
 	'album': 'Ok Jaanu',
