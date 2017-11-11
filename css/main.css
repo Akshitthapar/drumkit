@@ -173,6 +173,12 @@ h1 {
 table.dataTable tbody tr {
     background-color: initial;
 }
+.effects{
+  padding-top: 12px;
+  padding-left: 500px;
+
+}
+
 #launch{
   padding: 10px;
   background-color: white;
