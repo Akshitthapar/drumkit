@@ -24,6 +24,7 @@ var songs = [										 //variables song array hai of objects ka
 	'fileName': 'song2.mp3',
 'image':'song2.jpg'
 },
+
 {
 	'name': 'Nashe Si Chadh Gayi',
 	'artist': 'Arijit Singh',
@@ -39,6 +40,14 @@ var songs = [										 //variables song array hai of objects ka
 	'duration': '2:29',
 	'fileName': 'song4.mp3',
 'image':'song4.jpg'
+},
+{
+	'name': 'Gardens',
+	'artist': ' Lakey inspired',
+	'album': 'HITS',
+	'duration': '3:15',
+	'fileName': 'song5.mp3',
+'image':'song2.jpg'
 }]
 function addSongNameClickEvent(songObj,position)				//var fileName = ['song1.mp3','song2.mp3','song3.mp3','song4.mp3'];
 {

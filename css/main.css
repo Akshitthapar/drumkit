@@ -57,7 +57,7 @@ h1 {
 	border-radius:10px;
 }
 .main footer {
-    height: 80px;
+    height: 100px;
     background-color: #282828;
     padding-top: 1rem;
 	background-color: rgba(200, 54, 54, 0.8);
@@ -177,6 +177,10 @@ table.dataTable tbody tr {
   padding-top: 12px;
   padding-left: 500px;
 
+}
+
+.scroll{
+  overflow-y: scroll;
 }
 
 #launch{
